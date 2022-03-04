@@ -2,18 +2,15 @@ body {
     font-family: "Fredoka", sans-serif;
     width: 600px; 
     margin: 0 auto; 
-    background-color: #e6cebc;
+    margin-top: 20px;
 }
 
 header {
     text-align: center;
-    margin-top: 20px; 
-    color: #8e412e;
+    margin-top: 10px; 
+    color: #eee2df;
 }
 
-.card {
-    border: none; 
-}
 
 .wrapper {
     border: 2px solid white;
@@ -22,7 +19,15 @@ header {
 }
 
 .form-control {
-    border: 2px solid #a2a182; 
-    background-color: #687259;
-    color: white; 
+    padding: 5px;
+    border: 2px solid #eee2df;
+    background-color: #c89f9c;
+    color: #eee2df; 
+}
+
+
+.btn-primary {
+    background-color: #b36a5e; 
+    border: none;
+    color: #eee2df;
 }
