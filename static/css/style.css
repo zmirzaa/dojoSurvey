@@ -8,7 +8,7 @@ body {
 header {
     text-align: center;
     margin-top: 10px; 
-    color: #eee2df;
+    color: #b36a5e;
 }
 
 
@@ -20,9 +20,8 @@ header {
 
 .form-control {
     padding: 5px;
-    border: 2px solid #eee2df;
-    background-color: #c89f9c;
-    color: #eee2df; 
+    border: 2px solid #b36a5e;
+    color: #b99e98; 
 }
 
 
@@ -30,4 +29,13 @@ header {
     background-color: #b36a5e; 
     border: none;
     color: #eee2df;
+}
+
+.info {
+    color:#b36a5e; 
+}
+
+span {
+    color:#b99e98; 
+    font-family: "Josefin Sans", sans-serif;
 }
